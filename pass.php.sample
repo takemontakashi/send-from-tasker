@@ -1,0 +1,5 @@
+<?php
+$user = array (
+    'from' => 'your_mail_address@example.com',
+    'pass' => md5('password'),
+);
